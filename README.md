@@ -9,13 +9,15 @@ It conatins three pages as listing of books and information about perticular boo
 To know better about project ,some images of project are shown below:
 <li>Home page</li>
 <img src="/public/img1.png"/>
+<br/>
 
 <li>User can see different books</li>
 <img src="/public/img2.png"/>
+<br/>
 
 <li>User can find information about particular book</li>
 <img src="/public/img3.png"/>
-
+<Br/>
 <li>To add books in the cart first login with any username and password</li>
 
 
