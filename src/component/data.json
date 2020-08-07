@@ -1,0 +1,81 @@
+{
+    "data":[
+        {
+            "id":1,
+            "title":"My Favourite Nature Stories",
+            "img":"https://m.media-amazon.com/images/I/61dCxFFVyvL._AC_UY218_ML3_.jpg",
+            "price":100,
+            "language":"English"
+        },
+        {
+            "id":2,
+            "title":"Free Your Mind",
+            "img":"https://m.media-amazon.com/images/I/716NPjAhXPL._AC_UY218_ML3_.jpg",
+            "price":200,
+            "language":"English"
+        },
+        {
+            "id":3,
+            "title":"World War 1: A History From Beginning to End",
+            "img":"https://m.media-amazon.com/images/I/81yCmNYhj5L._AC_UY218_ML3_.jpg",
+            "price":150,
+            "language":"English"
+        },
+        {
+            "id":4,
+            "title":"Khwab ke Gaon Mein ",
+            "img":"https://m.media-amazon.com/images/I/91Bx1ZJUP8L._AC_UY218_ML3_.jpg",
+            "price":110,
+            "language":"Hindi"
+        },
+        {
+            "id":5,
+            "title":"Kalam: Kuch Ulte Panne ",
+            "img":"https://m.media-amazon.com/images/I/717GVqbJ6QL._AC_UY218_ML3_.jpg",
+            "price":130,
+            "language":"Hindi"
+        },
+        {
+            "id":6,
+            "title":"Simple & Effective Science For Self Realization",
+            "img":"https://m.media-amazon.com/images/I/8182DhME8vL._AC_UY218_ML3_.jpg",
+            "price":180,
+            "language":"Hindi"
+        },
+        {
+            "id":7,
+            "title":"Kaavyarooh",
+            "img":"https://m.media-amazon.com/images/I/71qnUm27HXL._AC_UY218_ML3_.jpg",
+            "price":130,
+            "language":"Hindi"
+        },
+        {
+            "id":8,
+            "title":"MRUTYUNJAY",
+            "img":"https://m.media-amazon.com/images/I/41HLr6MRstL._AC_UY218_ML3_.jpg",
+            "price":180,
+            "language":"Marathi"
+        },
+        {
+            "id":9,
+            "title":"Chhawa",
+            "img":"https://m.media-amazon.com/images/I/41PDhLwB0vL._AC_UY218_ML3_.jpg",
+            "price":280,
+            "language":"Marathi"
+        },
+        {
+            "id":10,
+            "title":"Eka Parisachi Katha",
+            "img":"https://m.media-amazon.com/images/I/31S7de2KBvL._AC_UY218_ML3_.jpg",
+            "price":480,
+            "language":"Marathi"
+        }
+    ],
+
+    "list":[
+        "Architecture","Arts & Photography","Biographics & memories","Body, mind & Spirit",
+        "Business & Economics","Children & Teens","Computer & Internet","Cookery & Food",
+        "Dictionaries","Fiction","History","Law","Lifestyle","Medicine","Music","Nursing",
+        "Parenting","Politics","Sports","Travel"
+    ]
+}

@@ -1,0 +1,15 @@
+.footer{
+    color: '#454545'
+}
+.footer ~ p{
+    color: grey;
+    font-weight: bold;  
+}
+.footer ~ p:hover{
+    color:blue
+}
+
+.social{
+    height:20px;
+    width:20px
+}

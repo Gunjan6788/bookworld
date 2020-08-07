@@ -1,0 +1,8 @@
+span{
+    color:whitesmoke;
+    text-decoration-line: none;
+    padding-right:50px ;
+}
+span:hover{
+    color: blue;
+}
